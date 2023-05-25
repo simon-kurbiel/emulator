@@ -34,6 +34,7 @@ int main(int argc, char ** argv){
 	}
 out:
 	SDL_DestroyWindow(window);
+	SDL_DestroyWindow(window);
 	
 
 
