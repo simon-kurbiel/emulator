@@ -52,3 +52,6 @@ Mkfile.old
 dkms.conf
 SDL/
 .vscode
+bin/pong.rom
+bin/file.txt
+bin/INVADERS
